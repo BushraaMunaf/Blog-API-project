@@ -1,6 +1,6 @@
 # Blog-API-project
 
-Welcome the **Blog API project!** This project uses html for complete functonality.
+Welcome the **Blog API project!** This project uses CSS, EJS and JavaScript for complete functonality.
 
 ##Folder Structure:
 ... 
